@@ -12,8 +12,13 @@
         }
 
         public static Products GetBy(string code)
-        {
+        { 
             return produtos.FirstOrDefault(p => p.Code == code);
+        }
+
+        public static void DeleteBy(Products product)
+        {
+         produtos.Remove(product);          
         }
     }
 }

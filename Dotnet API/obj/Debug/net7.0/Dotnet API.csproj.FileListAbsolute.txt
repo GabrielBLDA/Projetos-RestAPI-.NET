@@ -24,3 +24,29 @@ C:\Users\DEVELOPER-05\Desktop\Dotnet API\obj\Debug\net7.0\refint\Dotnet API.dll
 C:\Users\DEVELOPER-05\Desktop\Dotnet API\obj\Debug\net7.0\Dotnet API.pdb
 C:\Users\DEVELOPER-05\Desktop\Dotnet API\obj\Debug\net7.0\Dotnet API.genruntimeconfig.cache
 C:\Users\DEVELOPER-05\Desktop\Dotnet API\obj\Debug\net7.0\ref\Dotnet API.dll
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\bin\Debug\net7.0\appsettings.json
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\bin\Debug\net7.0\Dotnet API.exe
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\bin\Debug\net7.0\Dotnet API.deps.json
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\bin\Debug\net7.0\Dotnet API.runtimeconfig.json
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\bin\Debug\net7.0\Dotnet API.dll
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\bin\Debug\net7.0\Dotnet API.pdb
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\Dotnet API.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\Dotnet API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\Dotnet API.AssemblyInfoInputs.cache
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\Dotnet API.AssemblyInfo.cs
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\Dotnet API.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\Dotnet API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\staticwebassets\msbuild.Dotnet API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\staticwebassets\msbuild.build.Dotnet API.props
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dotnet API.props
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dotnet API.props
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\scopedcss\bundle\Dotnet API.styles.css
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\Dotnet API.dll
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\refint\Dotnet API.dll
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\Dotnet API.pdb
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\Dotnet API.genruntimeconfig.cache
+C:\Users\DEVELOPER-05\Desktop\API\Dotnet API\obj\Debug\net7.0\ref\Dotnet API.dll

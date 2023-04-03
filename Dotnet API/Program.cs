@@ -9,29 +9,28 @@ app.MapGet("/user", () => "Gabriel Abreu");
 app.MapPost("/user", () => new {Name = "Matheus", Id = 1 });
 app.MapGet("/AddHeader", (HttpResponse response) => response.Headers.Add("Teste", "Joao dom victor"));
 
-app.MapPost("/saveproduct", (Products product) => {
-    return product.Code + " - " +  product.Name;
-});
 
-//api.app.com/users?datastart={date}&dateend={date}
-//exemplo: (https://localhost:7236/getproduct?dateStart=2023/04/01&dateEnd=2023/04/05) -> get
-app.MapGet("/getproduct", ([FromQuery]string dateStart, [FromQuery]string dateEnd) =>
+app.MapPost("/product", (Products product) => {
+    ProductRepository.Add(product);
+}); 
+
+app.MapGet("/product/{code}", ([FromRoute] string code) =>
 {
-    return dateStart + " - " + dateEnd;
+    var product = ProductRepository.GetBy(code);
+    return product;
 });
 
-//api.app.com/user/{code}
-//exemplo: (https://localhost:7236/getproduct/teste); -> get
-app.MapGet("/getproduct/{code}", ([FromRoute] string code) =>
+app.MapPut("/product", (Products product) =>
 {
-    return code;
+    var productSaved = ProductRepository.GetBy(product.Code);
+    productSaved.Name = product.Name;
 });
 
-app.MapGet("/getProductbyheader", (HttpRequest request) =>
+app.MapDelete("/product/{code}", ([FromRoute] string code) =>
 {
-    return request.Headers["product-code"].ToString();
+    var productDeleted = ProductRepository.GetBy(code);
+    ProductRepository.DeleteBy(productDeleted);
 });
-
 
 app.Run();
 
